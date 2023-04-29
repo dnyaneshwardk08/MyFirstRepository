@@ -1,0 +1,36 @@
+body {
+    margin:0%
+}
+h1 {
+    margin-top:0;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.top-container {
+    background-color: #E4F9F5;
+    height:20px;
+    
+   border-width: 5px;
+   padding: 20px;
+   border-style: solid;
+}
+
+.middle-container {
+    background-color: #191825;
+    height:20px;
+    border-width:5px;
+    border-style: solid;
+}
+
+.bottom-container {
+    background-color: #865DFF;
+    height:20px;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.container {
+    display: grid;
+}

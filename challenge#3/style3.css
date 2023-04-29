@@ -1,0 +1,34 @@
+h1 {
+    font-size: 200px;
+    color: red;
+}
+
+
+/*img {
+    background-color: red;
+}*/
+
+p {
+    font-size : 20px;
+}
+
+.bacon {
+    background-color: red;
+}
+
+.apple {
+    background-color: yellow;
+}
+
+.circular {
+    border-radius: 100% ;
+}
+
+.circle {
+    border-radius: 100%;
+}
+
+.bacon-circular{
+    float:left;
+    margin-right:80px;
+}
