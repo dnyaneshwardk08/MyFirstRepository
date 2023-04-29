@@ -1,0 +1,29 @@
+body {
+    background-color: #EAF6F6;           /*body text cha background clr change krnyasathi*/
+}
+
+hr {
+  border-style: none;                        /*border line change krnyasathi*/
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+    color:#66BFBF;                          /*h1 text cha clr change krynyasathi*/
+
+}
+
+h3 {
+    color:#66BFBF;                           /*h3 text cha clr change krnyasathi..........
+                                                  aplya hr ek heading line cha clr change krnyasathi tela mention krav*/
+}
+
+.cs {
+    background-color: green;
+}
+
+.apple {
+    background-color: black;
+}
